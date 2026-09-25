@@ -215,4 +215,4 @@ Civilization VI is available as a full free version for Windows, with all featur
 Experience the ultimate strategy game today! Download **Civilization VI** and start building your empire!
 
 ---
-**Last updated:** 2026-09-25 12:41:53 UTC
+**Last updated:** 2026-09-25 17:43:38 UTC
